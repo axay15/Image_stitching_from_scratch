@@ -1,4 +1,4 @@
-# Image_stitching_from_scratch
+# Image Stitching from scratch
 
 This program performs image stitching for more than two images and is written from scratch including calculation of Homography and RANSAC algorithm.                               
 
