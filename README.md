@@ -6,8 +6,8 @@ This program performs image stitching for more than two images and is written fr
 pip install opencv-contrib-python
 
 ### Folder structure
-src - contains the source code                                                             
-data - contains the images to be stitched
+* src - contains the source code                                                             
+* data - contains the images to be stitched
 
 
 To run the code from src direcctory, open a terminal and enter the following:
@@ -18,8 +18,8 @@ example:```sh python stitch.py ../data/mountain ```
 
 
 ### Note:
-You need to remove the panaroma.jpg file from folders to run the code  
-
+* You need to remove the panaroma.jpg file from folders to run the code  
+* install opencv-contrib-python as cv::xfeatures2d::SIFT_create has been deprecated in higher versions of opencv
 
 ### Sample Output
 
