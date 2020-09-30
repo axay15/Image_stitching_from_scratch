@@ -11,9 +11,10 @@ data - contains the images to be stitched
 
 
 To run the code from src direcctory, open a terminal and enter the following:
-
-python stitch.py <folder_path> 
-eg. python stitch.py ../data/mountain
+```sh
+python stitch.py <folder_path>      
+```
+eg.```sh python stitch.py ../data/mountain ```
 
 
 ### Note:
