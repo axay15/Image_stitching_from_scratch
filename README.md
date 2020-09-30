@@ -14,8 +14,20 @@ To run the code from src direcctory, open a terminal and enter the following:
 ```sh
 python stitch.py <folder_path>      
 ```
-eg.```sh python stitch.py ../data/mountain ```
+example:```sh python stitch.py ../data/mountain ```
 
 
 ### Note:
 You need to remove the panaroma.jpg file from folders to run the code  
+
+
+### Sample Output
+
+Input Images:
+
+![alt text](https://github.com/axay15/Image_stitching_from_scratch/blob/master/data/mountain/mountain1.jpg)    ![alt text](https://github.com/axay15/Image_stitching_from_scratch/blob/master/data/mountain/mountain2.jpg) 
+
+
+Output Panorama:
+
+
