@@ -5,7 +5,7 @@ This program performs image stitching for more than two images and is written fr
 ### Requirements:
 pip install opencv-contrib-python
 
-### Folder structure
+### Folder structure:
 * src - contains the source code                                                             
 * data - contains the images to be stitched
 
@@ -24,7 +24,7 @@ python stitch.py ../data/mountain
 * You need to remove the panaroma.jpg file from folders to run the code  
 * install opencv-contrib-python as cv::xfeatures2d::SIFT_create has been deprecated in higher versions of opencv
 
-### Sample Output
+### Sample Output:
 
 #### Input Images:
 
