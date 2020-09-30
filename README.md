@@ -14,7 +14,10 @@ To run the code from src direcctory, open a terminal and enter the following:
 ```sh
 python stitch.py <folder_path>      
 ```
-example:``` python stitch.py ../data/mountain ```
+example:                                                                                     
+```sh
+python stitch.py ../data/mountain 
+```
 
 
 ### Note:
