@@ -23,11 +23,11 @@ You need to remove the panaroma.jpg file from folders to run the code
 
 ### Sample Output
 
-Input Images:
+#### Input Images:
 
 ![alt text](https://github.com/axay15/Image_stitching_from_scratch/blob/master/data/mountain/mountain1.jpg)    ![alt text](https://github.com/axay15/Image_stitching_from_scratch/blob/master/data/mountain/mountain2.jpg) 
 
 
-Output Panorama:
+#### Output Panorama:
 
-
+![alt text](https://github.com/axay15/Image_stitching_from_scratch/blob/master/data/mountain/panorama.jpg) 
